@@ -1,0 +1,4 @@
+﻿  CourseWork.cpp
+c:\users\kirill\source\repos\coursework\coursework\coursework.cpp(519): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\kirill\source\repos\coursework\coursework\coursework.cpp(276): warning C4715: searchEquipment: значение возвращается не при всех путях выполнения
+  CourseWork.vcxproj -> C:\Users\Kirill\source\repos\CourseWork\Debug\CourseWork.exe
