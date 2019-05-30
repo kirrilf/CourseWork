@@ -13,10 +13,121 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Файлы ресурсов\rapidjson">
+      <UniqueIdentifier>{b6401bca-5348-4bd1-9efb-2eb7fb0f84bc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\allocators.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\cursorstreamwrapper.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\document.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\encodedstream.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\encodings.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\error\en.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\error\error.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\filereadstream.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\filewritestream.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\fwd.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\biginteger.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\diyfp.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\dtoa.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\ieee754.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\itoa.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\meta.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\pow10.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\regex.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\stack.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\strfunc.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\strtod.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\internal\swap.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\istreamwrapper.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\memorybuffer.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\memorystream.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\msinttypes\inttypes.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\msinttypes\stdint.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\ostreamwrapper.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\pointer.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\prettywriter.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\rapidjson.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\reader.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\schema.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\stream.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\stringbuffer.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Downloads\rapidjson-master\include\rapidjson\writer.h">
+      <Filter>Файлы ресурсов\rapidjson</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
